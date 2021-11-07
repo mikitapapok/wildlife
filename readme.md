@@ -1,7 +1,7 @@
 # Landing page
- First landing page i've ever made.
+ First landing page I've ever made.
 ## Tools and Libraries
- In this project I use:
+ In this project I use:<br/>
     - HTML.<br/>
     - CSS.<br/>
 
